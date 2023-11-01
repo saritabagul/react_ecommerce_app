@@ -105,7 +105,7 @@ export default function AddProduct() {
           className="btn btn-primary align-self-end mt-4"
           style={{
             width: "9rem",
-            backgroundColor: "var(--nav)",
+            backgroundColor: "#163d5c",
           }}
         >
           Add to Cart

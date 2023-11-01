@@ -160,7 +160,7 @@ export default function ProductDetail({ item }) {
             className="btn btn-primary"
             style={{
               width: "9rem",
-              backgroundColor: "var(--nav)",
+              backgroundColor: "#163d5c",
             }}
             onClick={() => handleClick(item)}
           >
