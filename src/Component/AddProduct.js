@@ -108,7 +108,7 @@ export default function AddProduct() {
             backgroundColor: "#163d5c",
           }}
         >
-          Add to Cart
+          Add Product
         </button>
       </form>
     </Container>
